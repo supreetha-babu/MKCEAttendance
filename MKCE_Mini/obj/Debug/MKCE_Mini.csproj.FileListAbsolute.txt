@@ -1,0 +1,26 @@
+C:\Users\Mukesh Kumar A\source\repos\MKCE_Mini\bin\Debug\MKCE_Mini.exe.config
+C:\Users\Mukesh Kumar A\source\repos\MKCE_Mini\bin\Debug\MKCE_Mini.exe
+C:\Users\Mukesh Kumar A\source\repos\MKCE_Mini\bin\Debug\MKCE_Mini.pdb
+C:\Users\Mukesh Kumar A\source\repos\MKCE_Mini\obj\Debug\MKCE_Mini.csprojAssemblyReference.cache
+C:\Users\Mukesh Kumar A\source\repos\MKCE_Mini\obj\Debug\MKCE_Mini.Home.resources
+C:\Users\Mukesh Kumar A\source\repos\MKCE_Mini\obj\Debug\MKCE_Mini.Properties.Resources.resources
+C:\Users\Mukesh Kumar A\source\repos\MKCE_Mini\obj\Debug\MKCE_Mini.csproj.GenerateResource.cache
+C:\Users\Mukesh Kumar A\source\repos\MKCE_Mini\obj\Debug\MKCE_Mini.csproj.CoreCompileInputs.cache
+C:\Users\Mukesh Kumar A\source\repos\MKCE_Mini\obj\Debug\MKCE_Mini.exe
+C:\Users\Mukesh Kumar A\source\repos\MKCE_Mini\obj\Debug\MKCE_Mini.pdb
+C:\Users\Mukesh Kumar A\source\repos\MKCE_Mini\obj\Debug\MKCE_Mini.Admin_Screen.resources
+C:\Users\Mukesh Kumar A\source\repos\MKCE_Mini\obj\Debug\MKCE_Mini.Staff_Home.resources
+C:\Users\Mukesh Kumar A\source\repos\MKCE_Mini\obj\Debug\MKCE_Mini.Student_Home.resources
+G:\Supreetha_Min\MKCE_Mini\bin\Debug\MKCE_Mini.exe.config
+G:\Supreetha_Min\MKCE_Mini\bin\Debug\MKCE_Mini.exe
+G:\Supreetha_Min\MKCE_Mini\bin\Debug\MKCE_Mini.pdb
+G:\Supreetha_Min\MKCE_Mini\obj\Debug\MKCE_Mini.csprojAssemblyReference.cache
+G:\Supreetha_Min\MKCE_Mini\obj\Debug\MKCE_Mini.Admin_Screen.resources
+G:\Supreetha_Min\MKCE_Mini\obj\Debug\MKCE_Mini.Home.resources
+G:\Supreetha_Min\MKCE_Mini\obj\Debug\MKCE_Mini.Properties.Resources.resources
+G:\Supreetha_Min\MKCE_Mini\obj\Debug\MKCE_Mini.Staff_Home.resources
+G:\Supreetha_Min\MKCE_Mini\obj\Debug\MKCE_Mini.Student_Home.resources
+G:\Supreetha_Min\MKCE_Mini\obj\Debug\MKCE_Mini.csproj.GenerateResource.cache
+G:\Supreetha_Min\MKCE_Mini\obj\Debug\MKCE_Mini.csproj.CoreCompileInputs.cache
+G:\Supreetha_Min\MKCE_Mini\obj\Debug\MKCE_Mini.exe
+G:\Supreetha_Min\MKCE_Mini\obj\Debug\MKCE_Mini.pdb
